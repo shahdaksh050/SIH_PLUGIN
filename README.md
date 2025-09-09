@@ -245,5 +245,3 @@ For technical support:
 
 This project is designed for healthcare data processing and should comply with relevant healthcare regulations (HIPAA, GDPR) in your jurisdiction.
 =======
-# SIH_PLUGIN
->>>>>>> 24b6860dc6017a9c73e9a8df71a321df9b944b1b
