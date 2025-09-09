@@ -1,0 +1,6 @@
+patient_id,tm2_code,condition_name,system_type,severity,diagnosis_date,practitioner_id
+P001,TM2.A01.01,Headache,Ayurveda,Mild,2023-08-01,PRAC001
+P002,TM2.B02.03,Diabetes,Siddha,Moderate,2023-07-15,PRAC002
+P003,TM2.C03.05,Hypertension,Unani,Severe,2023-06-20,PRAC003
+P004,TM2.D04.07,Asthma,Ayurveda,Critical,2023-05-10,PRAC004
+P005,TM2.E05.09,Arthritis,Siddha,Mild,2023-04-25,PRAC005

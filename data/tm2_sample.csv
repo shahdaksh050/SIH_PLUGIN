@@ -1,0 +1,21 @@
+patient_id,tm2_code,condition_name,system_type,severity,diagnosis_date,practitioner_id
+PAT001,TM2.A01.01,Chronic Insomnia,Ayurveda,Moderate,2024-01-15,DOC001
+PAT002,TM2.A02.05,Digestive Disorders,Siddha,Mild,2024-01-18,DOC002
+PAT003,TM2.B01.03,Joint Pain Syndrome,Unani,Severe,2024-01-20,DOC003
+PAT004,TM2.C03.02,Stress-Related Anxiety,Ayurveda,Moderate,2024-01-22,DOC001
+PAT005,TM2.A01.02,Sleep Apnea,Homeopathy,Severe,2024-01-25,DOC004
+PAT006,TM2.D02.01,Migraine Headaches,Siddha,Mild,2024-01-28,DOC002
+PAT007,TM2.E01.04,Chronic Fatigue,Ayurveda,Moderate,2024-02-01,DOC005
+PAT008,TM2.F03.01,Lower Back Pain,Unani,Severe,2024-02-03,DOC003
+PAT009,TM2.A03.06,Acid Reflux,Traditional Chinese Medicine,Mild,2024-02-05,DOC006
+PAT010,TM2.G01.02,Hypertension,Naturopathy,Moderate,2024-02-08,DOC007
+PAT011,TM2.H02.01,Depression,Yoga,Moderate,2024-02-10,DOC008
+PAT012,TM2.A01.03,Restless Leg Syndrome,Ayurveda,Mild,2024-02-12,DOC001
+PAT013,TM2.I01.05,Allergic Rhinitis,Homeopathy,Moderate,2024-02-15,DOC004
+PAT014,TM2.J02.02,Eczema,Siddha,Severe,2024-02-18,DOC002
+PAT015,TM2.B02.04,Arthritis,Unani,Moderate,2024-02-20,DOC003
+PAT016,TM2.K01.01,Memory Loss,Traditional Chinese Medicine,Mild,2024-02-22,DOC006
+PAT017,TM2.L03.02,Menstrual Disorders,Ayurveda,Moderate,2024-02-25,DOC009
+PAT018,TM2.M01.03,Liver Dysfunction,Naturopathy,Severe,2024-02-28,DOC007
+PAT019,TM2.N02.01,Kidney Stones,Yoga,Moderate,2024-03-02,DOC008
+PAT020,TM2.O01.04,Respiratory Infections,Homeopathy,Mild,2024-03-05,DOC004

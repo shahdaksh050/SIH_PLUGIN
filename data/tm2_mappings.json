@@ -1,0 +1,249 @@
+{
+  "tm2_mappings": [
+    {
+      "tm2_code": "TM2.A01.01",
+      "condition_name": "Chronic Insomnia",
+      "icd11_foundation_id": "7A00.0",
+      "concept_description": "Persistent difficulty in falling asleep or staying asleep",
+      "system_specific_names": {
+        "ayurveda": "Nidranasha",
+        "siddha": "Thookammai",
+        "unani": "Qillat-un-Naum",
+        "homeopathy": "Insomnia",
+        "traditional_chinese_medicine": "Shi Mian",
+        "naturopathy": "Sleep Disorder",
+        "yoga": "Nidra Roga"
+      }
+    },
+    {
+      "tm2_code": "TM2.A01.02",
+      "condition_name": "Sleep Apnea",
+      "icd11_foundation_id": "7A01.1",
+      "concept_description": "Sleep disorder characterized by pauses in breathing during sleep",
+      "system_specific_names": {
+        "ayurveda": "Shwasa Kshaya",
+        "siddha": "Uyir Kazhithal",
+        "unani": "Tanaffus me Inqita",
+        "homeopathy": "Respiratory Cessation",
+        "traditional_chinese_medicine": "Xi Ting",
+        "naturopathy": "Breathing Obstruction",
+        "yoga": "Prana Viloma"
+      }
+    },
+    {
+      "tm2_code": "TM2.A02.05",
+      "condition_name": "Digestive Disorders",
+      "icd11_foundation_id": "DA90.0",
+      "concept_description": "Various conditions affecting the digestive system",
+      "system_specific_names": {
+        "ayurveda": "Agni Mandya",
+        "siddha": "Seeraga Kizhi",
+        "unani": "Sue Hazm",
+        "homeopathy": "Dyspepsia",
+        "traditional_chinese_medicine": "Xiao Hua Bu Liang",
+        "naturopathy": "Digestive Dysfunction",
+        "yoga": "Jatharagni Dosha"
+      }
+    },
+    {
+      "tm2_code": "TM2.B01.03",
+      "condition_name": "Joint Pain Syndrome",
+      "icd11_foundation_id": "FB52.2",
+      "concept_description": "Chronic pain affecting multiple joints",
+      "system_specific_names": {
+        "ayurveda": "Sandhigata Vata",
+        "siddha": "Muttu Vali",
+        "unani": "Waja-ul-Mafasil",
+        "homeopathy": "Arthralgia",
+        "traditional_chinese_medicine": "Guan Jie Tong",
+        "naturopathy": "Joint Inflammation",
+        "yoga": "Sandhi Vedana"
+      }
+    },
+    {
+      "tm2_code": "TM2.C03.02",
+      "condition_name": "Stress-Related Anxiety",
+      "icd11_foundation_id": "6B00.1",
+      "concept_description": "Anxiety disorders triggered by psychological stress",
+      "system_specific_names": {
+        "ayurveda": "Chittodvega",
+        "siddha": "Manathin Kalaippu",
+        "unani": "Qalaq",
+        "homeopathy": "Anxietas",
+        "traditional_chinese_medicine": "Jiao Lu",
+        "naturopathy": "Mental Stress",
+        "yoga": "Chitta Viksepa"
+      }
+    },
+    {
+      "tm2_code": "TM2.D02.01",
+      "condition_name": "Migraine Headaches",
+      "icd11_foundation_id": "8A80.1",
+      "concept_description": "Recurring severe headaches with associated symptoms",
+      "system_specific_names": {
+        "ayurveda": "Ardhavabhedaka",
+        "siddha": "Thalai Noi",
+        "unani": "Shaqiqa",
+        "homeopathy": "Hemicrania",
+        "traditional_chinese_medicine": "Pian Tou Tong",
+        "naturopathy": "Vascular Headache",
+        "yoga": "Shirobhedana"
+      }
+    },
+    {
+      "tm2_code": "TM2.E01.04",
+      "condition_name": "Chronic Fatigue",
+      "icd11_foundation_id": "8E49.0",
+      "concept_description": "Persistent exhaustion not relieved by rest",
+      "system_specific_names": {
+        "ayurveda": "Klama",
+        "siddha": "Paithiyam",
+        "unani": "Kasalat",
+        "homeopathy": "Debilitas",
+        "traditional_chinese_medicine": "Pi Lao",
+        "naturopathy": "Energy Depletion",
+        "yoga": "Shrama"
+      }
+    },
+    {
+      "tm2_code": "TM2.F03.01",
+      "condition_name": "Lower Back Pain",
+      "icd11_foundation_id": "ME84.2",
+      "concept_description": "Pain and stiffness in the lumbar region",
+      "system_specific_names": {
+        "ayurveda": "Katigraha",
+        "siddha": "Kadai Vali",
+        "unani": "Waja-ul-Khasr",
+        "homeopathy": "Lumbago",
+        "traditional_chinese_medicine": "Yao Tong",
+        "naturopathy": "Lumbar Strain",
+        "yoga": "Kati Shoola"
+      }
+    },
+    {
+      "tm2_code": "TM2.A03.06",
+      "condition_name": "Acid Reflux",
+      "icd11_foundation_id": "DA22.0",
+      "concept_description": "Gastroesophageal reflux causing heartburn",
+      "system_specific_names": {
+        "ayurveda": "Amlapitta",
+        "siddha": "Pulippu Noi",
+        "unani": "Humuzat",
+        "homeopathy": "Pyrosis",
+        "traditional_chinese_medicine": "Wei Suan",
+        "naturopathy": "Gastric Reflux",
+        "yoga": "Amla Dosha"
+      }
+    },
+    {
+      "tm2_code": "TM2.G01.02",
+      "condition_name": "Hypertension",
+      "icd11_foundation_id": "BA00.0",
+      "concept_description": "Persistently elevated blood pressure",
+      "system_specific_names": {
+        "ayurveda": "Rakta Gata Vata",
+        "siddha": "Rattha Erivu",
+        "unani": "Zaghte Dam",
+        "homeopathy": "Hypertonia",
+        "traditional_chinese_medicine": "Gao Xue Ya",
+        "naturopathy": "Vascular Pressure",
+        "yoga": "Rakta Pradhana"
+      }
+    },
+    {
+      "tm2_code": "TM2.H02.01",
+      "condition_name": "Depression",
+      "icd11_foundation_id": "6A70.0",
+      "concept_description": "Persistent feelings of sadness and loss of interest",
+      "system_specific_names": {
+        "ayurveda": "Vishada",
+        "siddha": "Manadhaippul",
+        "unani": "Junun Sawdawi",
+        "homeopathy": "Melancholia",
+        "traditional_chinese_medicine": "Yu Zheng",
+        "naturopathy": "Mental Depression",
+        "yoga": "Manas Daurbalya"
+      }
+    },
+    {
+      "tm2_code": "TM2.A01.03",
+      "condition_name": "Restless Leg Syndrome",
+      "icd11_foundation_id": "7A80.1",
+      "concept_description": "Uncomfortable sensations in legs with urge to move",
+      "system_specific_names": {
+        "ayurveda": "Pada Kampa",
+        "siddha": "Kaal Azhippu",
+        "unani": "Harakat Saq",
+        "homeopathy": "Jactatio Crurum",
+        "traditional_chinese_medicine": "Bu Ning Tui",
+        "naturopathy": "Leg Restlessness",
+        "yoga": "Pada Spandana"
+      }
+    },
+    {
+      "tm2_code": "TM2.I01.05",
+      "condition_name": "Allergic Rhinitis",
+      "icd11_foundation_id": "CA08.1",
+      "concept_description": "Inflammation of nasal passages due to allergic reactions",
+      "system_specific_names": {
+        "ayurveda": "Vataja Pratishyaya",
+        "siddha": "Mookku Oli",
+        "unani": "Nazla Tabi",
+        "homeopathy": "Coryza",
+        "traditional_chinese_medicine": "Bian Ying Xing Bi Yan",
+        "naturopathy": "Nasal Allergy",
+        "yoga": "Ghrana Shotha"
+      }
+    },
+    {
+      "tm2_code": "TM2.J02.02",
+      "condition_name": "Eczema",
+      "icd11_foundation_id": "EA80.2",
+      "concept_description": "Inflammatory skin condition with itching and redness",
+      "system_specific_names": {
+        "ayurveda": "Vicharchika",
+        "siddha": "Karapan",
+        "unani": "Eczema",
+        "homeopathy": "Dermatitis",
+        "traditional_chinese_medicine": "Shi Zhen",
+        "naturopathy": "Skin Inflammation",
+        "yoga": "Twak Roga"
+      }
+    },
+    {
+      "tm2_code": "TM2.B02.04",
+      "condition_name": "Arthritis",
+      "icd11_foundation_id": "FA20.0",
+      "concept_description": "Inflammation of one or more joints",
+      "system_specific_names": {
+        "ayurveda": "Amavata",
+        "siddha": "Keel Vayu",
+        "unani": "Wajaul Mafasil",
+        "homeopathy": "Arthritis",
+        "traditional_chinese_medicine": "Guan Jie Yan",
+        "naturopathy": "Joint Disease",
+        "yoga": "Sandhi Vata"
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.0.0",
+    "created_date": "2024-09-09",
+    "description": "TM2 code mappings for traditional medicine systems integration with OpenMRS",
+    "total_mappings": 15,
+    "supported_systems": [
+      "ayurveda",
+      "siddha", 
+      "unani",
+      "homeopathy",
+      "traditional_chinese_medicine",
+      "naturopathy",
+      "yoga"
+    ],
+    "compliance": {
+      "icd11": true,
+      "who_tm2": true,
+      "openmrs": true
+    }
+  }
+}
