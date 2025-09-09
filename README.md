@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TM2 Healthcare Data Ingestion Service
 
 A production-ready FastAPI service for automating the ingestion of TM2 (Traditional Medicine Module 2) dataset files, processing and storing data in MongoDB Atlas, and submitting validated information to OpenMRS REST API endpoints.
@@ -69,7 +70,6 @@ OPENMRS_PASSWORD=your_openmrs_password
 
 # Application Configuration
 ENVIRONMENT=development
-LOG_LEVEL=INFO
 ```
 
 ### 3. Run the Application
@@ -109,9 +109,6 @@ curl "http://localhost:8000/status"
 
 ## Data Format
 
-### TM2 Dataset Structure
-
-The service expects CSV files with the following columns:
 
 | Column | Description | Example |
 |--------|-------------|---------|
@@ -247,3 +244,6 @@ For technical support:
 ## License
 
 This project is designed for healthcare data processing and should comply with relevant healthcare regulations (HIPAA, GDPR) in your jurisdiction.
+=======
+# SIH_PLUGIN
+>>>>>>> 24b6860dc6017a9c73e9a8df71a321df9b944b1b
